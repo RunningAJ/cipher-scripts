@@ -1,0 +1,1 @@
+This repo contains various encryption methods I have been toying around with in POSH.
